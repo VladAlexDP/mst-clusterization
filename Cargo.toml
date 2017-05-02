@@ -1,0 +1,9 @@
+[package]
+name = "mst"
+version = "0.1.0"
+authors = ["Vlad Alex <vlad.al.dp@gmail.com>"]
+
+[dependencies]
+petgraph = "*"
+num = "*"
+clap = "*"
